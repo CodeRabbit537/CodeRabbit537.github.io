@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "《JavaScript 二十年》推荐语"
-author:       "Hux"
+title:        "测试Blog_2024-09-08"
+author:       "537"
 header-style: text
 catalog:      true
 tags:
